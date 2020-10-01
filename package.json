@@ -1,0 +1,43 @@
+{
+  "name": "final-project-the-work-from-homies",
+  "version": "1.0.0",
+  "description": "A lightweight course management tool that’s an “alternative” to Canvas.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-cs493-sp20/final-project-the-work-from-homies.git"
+  },
+  "keywords": [
+    "assignments",
+    "courses",
+    "users",
+    "npm",
+    "javascript",
+    "sql",
+    "project"
+  ],
+  "author": "Chris Breniser, Carlos Lopez, Sean Gillen, Ezra Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osu-cs493-sp20/final-project-the-work-from-homies/issues"
+  },
+  "homepage": "https://github.com/osu-cs493-sp20/final-project-the-work-from-homies#readme",
+  "dependencies": {
+    "amqplib": "^0.5.6",
+    "express": "^4.17.1",
+    "image-size": "^0.8.3",
+    "jimp": "^0.12.1",
+    "json2csv": "^5.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.5.8",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
