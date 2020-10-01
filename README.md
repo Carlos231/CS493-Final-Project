@@ -6,6 +6,16 @@ Friday, 6/12/2020
 
 In this course, a final programming project will take the place of formal exams to test your understanding of the material.  The final project will involve working with a team of 3-4 people to implement a complete RESTful API for an application called Tarpaulin.  You can find more details about Tarpaulin below.  The API you implement will need to utilize most the components of a modern API that we talked about in class.
 
+Contributors:
+- @gillens
+Sean Gillen
+- @Carlos231
+Carlos Lopez
+- @Brenisec
+Chris Breniser
+- @satyaSK
+Satyajit Kamble
+
 Tarpaulin
 =========
 
